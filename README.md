@@ -1,4 +1,4 @@
-# team11
+# PetLabs
 
 # App Description
 Our web app is an online pet care game in similar fashion to the old tamagotchi toys. Users can play with their pets, purchase new pets, and purchase items for their pets. Administrators can add and edit pets and items, as well as edit regular user information.
